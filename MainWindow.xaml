@@ -9,5 +9,7 @@
     <Grid>
         <Button x:Name="btnClick" Content="Click" HorizontalAlignment="Left" Margin="162,97,0,0" VerticalAlignment="Top" Click="btnClick_Click"/>
         <Label x:Name="lblResult" Content="" HorizontalAlignment="Left" Margin="162,49,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnNumber" Content="Number" HorizontalAlignment="Left" Margin="400,97,0,0" VerticalAlignment="Top" Click="btnNumber_Click"/>
+        <Label x:Name="lblNumber" Content="" HorizontalAlignment="Left" Margin="400,49,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
